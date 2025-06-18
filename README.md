@@ -1,6 +1,8 @@
 # panelReg
 Fits Semiparametric Regression Models for Panel Count Survival Data Use panelReg (spef) With (In) R Software
 
+https://www.youtube.com/watch?v=XMdIKX8zowQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
